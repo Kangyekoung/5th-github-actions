@@ -37,3 +37,4 @@ jobs:
           path: external-repo
 
       - name: 최종 디렉토리 확인
+        run: ls -al
